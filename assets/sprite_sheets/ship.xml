@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e7162592415533b2f60234ddb55254bc$ -->
+<TextureAtlas imagePath="ship.png">
+    <SubTexture name="ship0001" x="2" y="2" width="124" height="67" frameX="0" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0002" x="128" y="2" width="122" height="67" frameX="-2" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0003" x="2" y="71" width="120" height="67" frameX="-4" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0004" x="124" y="71" width="118" height="67" frameX="-6" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0005" x="2" y="140" width="120" height="67" frameX="-4" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0006" x="124" y="140" width="122" height="67" frameX="-2" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0007" x="2" y="209" width="124" height="67" frameX="0" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0008" x="128" y="209" width="124" height="67" frameX="0" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0009" x="2" y="278" width="122" height="67" frameX="-2" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0010" x="126" y="278" width="120" height="67" frameX="-4" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0011" x="2" y="347" width="118" height="67" frameX="-6" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0012" x="122" y="347" width="120" height="67" frameX="-4" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0013" x="2" y="416" width="122" height="67" frameX="-2" frameY="-1" frameWidth="124" frameHeight="69"/>
+    <SubTexture name="ship0014" x="126" y="416" width="122" height="67" frameX="-2" frameY="-1" frameWidth="124" frameHeight="69"/>
+</TextureAtlas>

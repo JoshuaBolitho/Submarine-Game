@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1b0b5819f4f781b7dca894287a51ecf4$ -->
+<TextureAtlas imagePath="game.png">
+    <SubTexture name="alert_mine_01" x="538" y="397" width="122" height="25"/>
+    <SubTexture name="alert_mine_02" x="414" y="397" width="122" height="25"/>
+    <SubTexture name="alert_mine_03" x="290" y="397" width="122" height="25"/>
+    <SubTexture name="alert_mine_04" x="166" y="397" width="122" height="25"/>
+    <SubTexture name="BgLayer2" x="2" y="2" width="800" height="189"/>
+    <SubTexture name="Obstacle01_crash" x="930" y="236" width="82" height="76"/>
+    <SubTexture name="explosion01" x="930" y="236" width="82" height="76"/>
+    <SubTexture name="explosion02" x="930" y="158" width="82" height="76"/>
+    <SubTexture name="explosion03" x="930" y="80" width="82" height="76"/>
+    <SubTexture name="explosion04" x="930" y="2" width="82" height="76"/>
+    <SubTexture name="Obstacle01" x="125" y="397" width="39" height="28"/>
+    <SubTexture name="Obstacle02" x="84" y="397" width="39" height="28"/>
+    <SubTexture name="Obstacle03" x="43" y="397" width="39" height="28"/>
+    <SubTexture name="fish4" x="2" y="397" width="39" height="28"/>
+    <SubTexture name="BgLayer1" x="2" y="193" width="800" height="105"/>
+    <SubTexture name="BgLayer4" x="2" y="366" width="800" height="29"/>
+    <SubTexture name="BgLayer3" x="2" y="300" width="800" height="64"/>
+    <SubTexture name="Obstacle04" x="930" y="314" width="75" height="73"/>
+    <SubTexture name="ship0001" x="884" y="428" width="124" height="69"/>
+    <SubTexture name="ship0002" x="758" y="428" width="124" height="69"/>
+    <SubTexture name="ship0003" x="632" y="428" width="124" height="69"/>
+    <SubTexture name="ship0004" x="506" y="428" width="124" height="69"/>
+    <SubTexture name="ship0005" x="380" y="428" width="124" height="69"/>
+    <SubTexture name="ship0006" x="254" y="428" width="124" height="69"/>
+    <SubTexture name="ship0007" x="128" y="428" width="124" height="69"/>
+    <SubTexture name="ship0008" x="2" y="428" width="124" height="69"/>
+    <SubTexture name="ship0009" x="804" y="357" width="124" height="69"/>
+    <SubTexture name="ship0010" x="804" y="286" width="124" height="69"/>
+    <SubTexture name="ship0011" x="804" y="215" width="124" height="69"/>
+    <SubTexture name="ship0012" x="804" y="144" width="124" height="69"/>
+    <SubTexture name="ship0013" x="804" y="73" width="124" height="69"/>
+    <SubTexture name="ship0014" x="804" y="2" width="124" height="69"/>
+</TextureAtlas>
